@@ -34,3 +34,11 @@ services:
       - ./.docker/php_api:/app
     working_dir: /app
     command: ["php", "-S", "0.0.0.0:8080", "-t", "/app"]
+
+  php_fpm_api:
+    image: php:8.5-fpm-alpine
+    ports:
+      - "9000:9000"
+    volumes:
+      - ./.docker/php_fpm_api:/app
+    working_dir: /app
