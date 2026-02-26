@@ -1,8 +1,0 @@
-Remote Address: 127.0.0.1, Time: [25/Feb/2026:22:59:51 +0000], Request: "GET / HTTP/1.0" Status: 200, Referer: "-"
-Remote Address: 127.0.0.1, Time: [25/Feb/2026:22:59:53 +0000], Request: "GET / HTTP/1.0" Status: 304, Referer: "-"
-Remote Address: 127.0.0.1, Time: [25/Feb/2026:22:59:56 +0000], Request: "GET / HTTP/1.0" Status: 200, Referer: "-"
-Remote Address: 127.0.0.1, Time: [25/Feb/2026:23:02:41 +0000], Request: "GET / HTTP/1.0" Status: 200;
-Remote Address: 127.0.0.1, Time: [25/Feb/2026:23:02:42 +0000], Request: "GET / HTTP/1.0" Status: 304;
-Remote Address: 127.0.0.1, Time: [25/Feb/2026:23:02:44 +0000], Request: "GET / HTTP/1.0" Status: 200;
-Remote Address: 192.168.65.1, Time: [25/Feb/2026:23:06:01 +0000], Request: "GET / HTTP/1.0" Status: 200;
-Remote Address: 192.168.65.1, Time: [25/Feb/2026:23:06:02 +0000], Request: "GET / HTTP/1.0" Status: 304;
